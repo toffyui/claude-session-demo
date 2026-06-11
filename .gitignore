@@ -1,0 +1,16 @@
+# Node / Angular
+node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Java / Maven
+backend/target/
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Env
+.env
