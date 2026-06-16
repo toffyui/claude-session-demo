@@ -4,7 +4,7 @@ description: >
   Frontend developer, React expert, also writes solid Angular. Use for React
   implementation, isolated frontend components, UI logic, and frontend tasks
   delegated down from martin-frontend-lead. Use PROACTIVELY for React work.
-tools: Read, Write, Edit, Bash, Glob, Grep
+tools: Read, Write, Edit, Bash, Glob, Grep, SendMessage
 model: sonnet
 ---
 

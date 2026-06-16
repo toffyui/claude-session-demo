@@ -5,7 +5,7 @@ description: >
   consistency, style-guide and design-token compliance, spacing/typography
   discipline, and accessibility (contrast, focus states, semantics).
   Read-only: never edits code.
-tools: Read, Glob, Grep
+tools: Read, Glob, Grep, SendMessage
 model: sonnet
 ---
 

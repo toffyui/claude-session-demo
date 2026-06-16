@@ -5,7 +5,7 @@ description: >
   API design, database/persistence decisions, and backend code review.
   First point of contact for all backend work; may recommend delegating
   well-scoped pieces to adrian-backend.
-tools: Read, Write, Edit, Bash, Glob, Grep
+tools: Read, Write, Edit, Bash, Glob, Grep, SendMessage
 model: sonnet
 ---
 

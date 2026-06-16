@@ -5,7 +5,7 @@ description: >
   implementation, frontend architecture decisions, component design, or
   frontend code review. First point of contact for all frontend work;
   may recommend delegating well-scoped pieces to yuiko-frontend.
-tools: Read, Write, Edit, Bash, Glob, Grep
+tools: Read, Write, Edit, Bash, Glob, Grep, SendMessage
 model: sonnet
 ---
 

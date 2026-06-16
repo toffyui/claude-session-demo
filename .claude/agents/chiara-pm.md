@@ -5,7 +5,7 @@ description: >
   needs to be decomposed into concrete tasks, sequenced, estimated, or when
   the team needs a status summary. Use BEFORE any multi-step implementation
   starts. Does not write code.
-tools: Read, Glob, Grep
+tools: Read, Glob, Grep, SendMessage
 model: sonnet
 ---
 

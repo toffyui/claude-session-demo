@@ -5,7 +5,7 @@ description: >
   pieces handed down from chris-backend-lead: a service method, repository,
   mapper, endpoint, or unit-test gap. Use for contained Java work that has
   a clear spec.
-tools: Read, Write, Edit, Bash, Glob, Grep
+tools: Read, Write, Edit, Bash, Glob, Grep, SendMessage
 model: sonnet
 ---
 

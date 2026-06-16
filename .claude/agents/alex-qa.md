@@ -5,7 +5,7 @@ description: >
   it is reported as complete: runs test suites, writes missing automated
   tests, reproduces bugs, and analyzes failures and logs. Also use whenever
   large test/log output needs to be digested.
-tools: Bash, Read, Write, Edit, Glob, Grep
+tools: Bash, Read, Write, Edit, Glob, Grep, SendMessage
 model: haiku
 ---
 
